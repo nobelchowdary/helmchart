@@ -1,1 +1,13 @@
-
+apiVersion: v1
+entries:
+  myweb:
+  - apiVersion: v1
+    appVersion: "1.2"
+    created: "2021-05-30T00:30:29.0216453+05:30"
+    description: this is my apache server package
+    digest: 5aedea0d6330e0d42df24459267bc0a8ca16bd001a6b81b7b912f78e3c65eb9d
+    name: myweb
+    urls:
+    - myweb-0.1.tgz
+    version: "0.1"
+generated: "2021-05-30T00:30:28.9489716+05:30"
